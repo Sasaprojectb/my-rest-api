@@ -6,7 +6,8 @@
 - Loli Killers
 - Rynz
 - Eka Danuarta
-- ZeeoneOfc 
+- ZeeoneOfc
+- Fahroza Bot
 - danzzcoding [database api] 
 - Creative Time [ For Template ]
 - Dan kalian semua yang memakai script api ini
